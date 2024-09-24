@@ -11,11 +11,11 @@ let package = Package(
     ],
     products: [
         .library(name: "IntellicheckSDK", targets: [
-            "IntellicheckFRMW"
-//            "DocumentReader",
-//            "DocumentReaderCore",
-//            "RegulaCommon",
-//            "Lottie"
+            "IntellicheckFRMW",
+            "DocumentReader",
+            "DocumentReaderCore",
+            "RegulaCommon",
+            "Lottie"
         ])
     ],
     targets: [
@@ -23,22 +23,22 @@ let package = Package(
             name: "IntellicheckFRMW",
             path: "./Sources/Intellicheck.xcframework"
         ),
-//        .binaryTarget(
-//            name: "DocumentReader",
-//            path: "./Sources/Frameworks/DocumentReader.xcframework"
-//        ),
-//        .binaryTarget(
-//            name: "DocumentReaderCore",
-//            path: "./Sources/Frameworks/DocumentReaderCore.xcframework"
-//        ),
-//        .binaryTarget(
-//            name: "RegulaCommon",
-//            path: "./Sources/Frameworks/RegulaCommon.xcframework"
-//        ),
-//        .binaryTarget(
-//            name: "Lottie",
-//            path: "./Sources/Frameworks/Lottie.xcframework"
-//        )
+        .binaryTarget(
+            name: "DocumentReader",
+            path: "./Sources/Frameworks/DocumentReader.xcframework"
+        ),
+        .binaryTarget(
+            name: "DocumentReaderCore",
+            path: "./Sources/Frameworks/DocumentReaderCore.xcframework"
+        ),
+        .binaryTarget(
+            name: "RegulaCommon",
+            path: "./Sources/Frameworks/RegulaCommon.xcframework"
+        ),
+        .binaryTarget(
+            name: "Lottie",
+            path: "./Sources/Frameworks/Lottie.xcframework"
+        )
     ]
 )
 
