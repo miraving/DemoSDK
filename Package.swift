@@ -11,7 +11,7 @@ let package = Package(
     ],
     products: [
         .library(name: "IntellicheckSDK", targets: [
-            "IntellicheckFRMW",
+            "Intellicheck",
             "DocumentReader",
             "DocumentReaderCore",
             "RegulaCommon",
@@ -19,17 +19,13 @@ let package = Package(
         ])
     ],
     targets: [
-//        .target(
-//            name: "Intellicheck",
-//            dependencies: [
-//                "IntellicheckFRMW",
-//                "DocumentReader",
-//                "DocumentReaderCore",
-//                "RegulaCommon",
-//                "Lottie"
-//            ],
-//            path: "Sources"
-//        ),
+        .target(
+            name: "Intellicheck",
+            dependencies: [
+                "IntellicheckFRMW"
+            ],
+            path: "Sources"
+        ),
         .binaryTarget(
             name: "IntellicheckFRMW",
             path: "./Sources/Intellicheck.xcframework"
