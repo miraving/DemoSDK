@@ -1,0 +1,6 @@
+framework module Intellicheck {
+  umbrella header "Intellicheck.h"
+  export *
+
+  module * { export * }
+}

@@ -1,0 +1,218 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios18.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Intellicheck
+import AVFoundation
+import Combine
+import CoreNFC
+import DeveloperToolsSupport
+import DocumentReader
+import Foundation
+@_exported import Intellicheck
+import Lottie
+import Network
+import SafariServices
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+public typealias VoidCallback = () -> Swift.Void
+public typealias ViewControllerCallback<ViewController> = () -> ViewController where ViewController : UIKit.UIViewController
+final public class ConfigurationModel : Foundation.ObservableObject {
+  @Combine.Published @_projectedValueProperty($theme) final public var theme: Intellicheck.ICTheme {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $theme: Combine.Published<Intellicheck.ICTheme>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($companyLogo) final public var companyLogo: SwiftUICore.Image {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $companyLogo: Combine.Published<SwiftUICore.Image>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($isFaceCheckON) final public var isFaceCheckON: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $isFaceCheckON: Combine.Published<Swift.Bool>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($showSuccessBarcodeScan) final public var showSuccessBarcodeScan: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $showSuccessBarcodeScan: Combine.Published<Swift.Bool>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($privacyPolicyUrl) final public var privacyPolicyUrl: Swift.String {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $privacyPolicyUrl: Combine.Published<Swift.String>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($biometricsPolicyUrl) final public var biometricsPolicyUrl: Swift.String {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $biometricsPolicyUrl: Combine.Published<Swift.String>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($scanTimeout) final public var scanTimeout: Foundation.TimeInterval {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $scanTimeout: Combine.Published<Foundation.TimeInterval>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($showApiError) final public var showApiError: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $showApiError: Combine.Published<Swift.Bool>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  public init()
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+final public class ICTheme : Combine.ObservableObject {
+  @Combine.Published @_projectedValueProperty($colors) final public var colors: Intellicheck.ICColor {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $colors: Combine.Published<Intellicheck.ICColor>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($fonts) final public var fonts: Intellicheck.ICFont {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $fonts: Combine.Published<Intellicheck.ICFont>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($buttonCornerRadius) final public var buttonCornerRadius: Swift.Double {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $buttonCornerRadius: Combine.Published<Swift.Double>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  public init(colors: Intellicheck.ICColor = ICColor(), fonts: Intellicheck.ICFont = ICFont(), buttonCornerRadius: Swift.Double = 10.0)
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+public struct ICColor {
+  public var background: SwiftUICore.Color
+  public var primary: SwiftUICore.Color
+  public var text: SwiftUICore.Color
+  public var buttonText: SwiftUICore.Color
+  public var buttonBorder: SwiftUICore.Color
+  public init()
+  public init(background: SwiftUICore.Color, primary: SwiftUICore.Color, text: SwiftUICore.Color, buttonText: SwiftUICore.Color, buttonBorder: SwiftUICore.Color)
+}
+public struct ICFont {
+  public var navigationTitle: SwiftUICore.Font
+  public var title: SwiftUICore.Font
+  public var body: SwiftUICore.Font
+  public var bodyRegular: SwiftUICore.Font
+  public var bodySemibold: SwiftUICore.Font
+  public var buttonTitle: SwiftUICore.Font
+  public init()
+  public init(navigationTitle: SwiftUICore.Font, title: SwiftUICore.Font, bodyRegular: SwiftUICore.Font, bodySemibold: SwiftUICore.Font, buttonTitle: SwiftUICore.Font)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public struct Configurator {
+  public enum DocumentType {
+    case driverLicense
+    case passportBooklet
+    case passportCard
+    public static func == (a: Intellicheck.Configurator.DocumentType, b: Intellicheck.Configurator.DocumentType) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public init()
+  public func start(configuration: Intellicheck.ConfigurationModel, documentType: Intellicheck.Configurator.DocumentType? = nil) -> some SwiftUICore.View
+  
+}
+extension Intellicheck.Configurator.DocumentType : Swift.Equatable {}
+extension Intellicheck.Configurator.DocumentType : Swift.Hashable {}
