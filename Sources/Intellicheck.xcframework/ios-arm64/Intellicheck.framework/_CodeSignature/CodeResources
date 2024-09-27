@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		e8oXWmkP9nKuy/rm6oedUDJmAu0=
+		GSEdaxw3aq5iWC6fmIMZfZxWCr0=
 		</data>
 		<key>Barcode-1.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/Intellicheck.h</key>
 		<data>
-		6f241tgLXpk96IJcTTKUon5PW1Q=
+		XmBPk8Icw121FiDD5ePbgpu6bY8=
 		</data>
 		<key>ID-Success.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/8gw34wHvkU+rhYpB3d0939gpY0=
+		Uo/1irPdNWfsV41V+DJ82AWqYsI=
 		</data>
 		<key>Inter-Bold.otf</key>
 		<data>
@@ -70,23 +70,23 @@
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		P0JtxhvRq4FjHwqfpKh0Gq5JpTM=
+		T8C28mNZLg6dV6s0viHIBisdrjQ=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		M9BgoUX8AvaMnN4Ff04Df72zWok=
+		eX9JURObighDT5pvjpsRuuJiCKs=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wCaW5F+GiJ9RK0G/WDwqycMTkdk=
+		RGD6cQgfnodQCPvHsbaeFtVN6OI=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		M9BgoUX8AvaMnN4Ff04Df72zWok=
+		eX9JURObighDT5pvjpsRuuJiCKs=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		3FG/WCiK99D6iZY9JmVCp7AMhDg=
+		wZ1oGpayaeekj6z0YwsgquDBL+Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,10 +100,6 @@
 		<data>
 		WMcz4ivO6vlgnOV47KkqwwPG2S8=
 		</data>
-		<key>regula.license</key>
-		<data>
-		3kX6HgnS99A4sMwsKcTylSgP988=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -111,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VadF2xoXAZknbj1+zrIhJYRsx9WAmx576/Fp0YGq5UA=
+			v3Fq3Ub7LLlNC+5t8J3WCyn3lPi7hUBqBPgEjidV0OA=
 			</data>
 		</dict>
 		<key>Barcode-1.json</key>
@@ -167,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T/P9p7CKfau5wjsvqViEaUv5qODR0tNYLbhJUXP+yes=
+			fpp7EYlXHbMD1ku7/IU9mGKYZ8iWuQRD1flI/mggons=
 			</data>
 		</dict>
 		<key>ID-Success.json</key>
@@ -216,35 +212,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTJ110IP1bztgKNccGwj5967HiNH5n//3ppFdQIB90U=
+			S4XtH/IpgqAz1wnZMXH//ggIM0Vu66uQa4iULXl1OVw=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hwuau3FWiuuBPUw6bO5wjhMjkA0yYvfA2D2wXNttUTo=
+			bNR+NkhbDJkyDuVeQjlEDuIkoXeXglKGwpTsI4bpx0Y=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/AwDLloGGV1oINUdKfthfWy55WnsWwy4QegOjOOMb+8=
+			1qiTedEYpkZJKv7bTMrcE9G6BYuBcRS1wCD3k0ju/F0=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hwuau3FWiuuBPUw6bO5wjhMjkA0yYvfA2D2wXNttUTo=
+			bNR+NkhbDJkyDuVeQjlEDuIkoXeXglKGwpTsI4bpx0Y=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iSqcmo7i64gt0Dd8d8JXjYFSvDwtfucAYv1FAxa9nOI=
+			I4VSiMpRd34I3xFHl97yo+JB+tFRmrF3dRWoHK7g/cc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -266,13 +262,6 @@
 			<key>hash2</key>
 			<data>
 			ZySPfoxu2zzn73Ow8ApTSn9CwRFs72POIbIDW16XmgY=
-			</data>
-		</dict>
-		<key>regula.license</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PUDXACDGoO26bIzx3d+ga/tsPfRzcrm7PsYwycQ7hI4=
 			</data>
 		</dict>
 	</dict>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		e8oXWmkP9nKuy/rm6oedUDJmAu0=
+		GSEdaxw3aq5iWC6fmIMZfZxWCr0=
 		</data>
 		<key>Barcode-1.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/Intellicheck.h</key>
 		<data>
-		6f241tgLXpk96IJcTTKUon5PW1Q=
+		XmBPk8Icw121FiDD5ePbgpu6bY8=
 		</data>
 		<key>ID-Success.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yYBvZ0XPvYBVP21b6QCvIF/OmGM=
+		e7NL4SUN2Oe830BRi9EOy7dWRms=
 		</data>
 		<key>Inter-Bold.otf</key>
 		<data>
@@ -70,43 +70,43 @@
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		VS8DGaxuiKORu7jW9gEVmDoEV7M=
+		rmGq/0LjcQim4ZAbax2Aegf3Qw0=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		330ioUqKd88wwis7MHZLM3jSVbk=
+		HI2BSHlp/D9JfrV3Zk+B/cQ7YEI=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ISJVFb9BnHzc2kGhD/57h0O1fq4=
+		ou/r1xaXF+lN9kFT7rZG97x8Xyk=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		330ioUqKd88wwis7MHZLM3jSVbk=
+		HI2BSHlp/D9JfrV3Zk+B/cQ7YEI=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vhtCuhm3eySCPoR+ZIOrD7jPFNA=
+		lKthCCGo27e0/vH37q7gNUTdCMc=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		VS8DGaxuiKORu7jW9gEVmDoEV7M=
+		rmGq/0LjcQim4ZAbax2Aegf3Qw0=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UEq2vN3jdMt6duFKTkhmv8KgTq0=
+		tmkXK6kzjyINFR+l/qkz2XjsDMU=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7V+mnzDrNBWwPiZkiMqWtxWJovc=
+		yazIuGEiZ2PrjuSozT8KhpEzhGk=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UEq2vN3jdMt6duFKTkhmv8KgTq0=
+		tmkXK6kzjyINFR+l/qkz2XjsDMU=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yYPkKWdKSMi0KnKcf8gcp1Urw+k=
+		OPpAdy7zEEK/PpPo9/SNdsAnnpE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -120,10 +120,6 @@
 		<data>
 		WMcz4ivO6vlgnOV47KkqwwPG2S8=
 		</data>
-		<key>regula.license</key>
-		<data>
-		3kX6HgnS99A4sMwsKcTylSgP988=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -131,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VadF2xoXAZknbj1+zrIhJYRsx9WAmx576/Fp0YGq5UA=
+			v3Fq3Ub7LLlNC+5t8J3WCyn3lPi7hUBqBPgEjidV0OA=
 			</data>
 		</dict>
 		<key>Barcode-1.json</key>
@@ -187,7 +183,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T/P9p7CKfau5wjsvqViEaUv5qODR0tNYLbhJUXP+yes=
+			fpp7EYlXHbMD1ku7/IU9mGKYZ8iWuQRD1flI/mggons=
 			</data>
 		</dict>
 		<key>ID-Success.json</key>
@@ -236,70 +232,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5V4ubiTflbPwYmYlzXjYEsP2zFv4TdgvSGCuUImwz88=
+			T/d7hlQKjEJ1F88Fs1Fy9kF6w9m1XcoxjDhtUWjVzK4=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OdxxIlyj6eTu2a81dfIPp3XxWstfeKx0zZmX9NdGhAI=
+			OfG8Qcy3wlRE38Afgl9FBDhPx1gLBienFzHC0kMH7kY=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			amYOVxun6CUwy2w8Sd/zeLrbq32LKT0VY49SB1oRvlM=
+			Kie9nAuwjNkgth1jXIARJkrXFTHzfzK/80jWR5AJ5Po=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OdxxIlyj6eTu2a81dfIPp3XxWstfeKx0zZmX9NdGhAI=
+			OfG8Qcy3wlRE38Afgl9FBDhPx1gLBienFzHC0kMH7kY=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			taAU+GW08Xu9xexcdYb7qOUruMNicQc1/OeCJS/d8fg=
+			/+5buoamBRR/KjvEAJzWHD3J5h3nFwVZKYqDeCXMteE=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5V4ubiTflbPwYmYlzXjYEsP2zFv4TdgvSGCuUImwz88=
+			T/d7hlQKjEJ1F88Fs1Fy9kF6w9m1XcoxjDhtUWjVzK4=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SfIYvykUvp0+nIVjfj/V/Y+brJiuEorik2eo+nvGWbk=
+			Y6gvzvZyFlmZBvbhlNcHLegDOjt9yKmnUY44gXIHtzI=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JFbQmK3dLrziYTLYxWwp2jCGQMRUdR7USczxSkcZ0zc=
+			p82tfmt8OdFPjn/HgVZUxz4YS7BOASalFFjQLP9N350=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SfIYvykUvp0+nIVjfj/V/Y+brJiuEorik2eo+nvGWbk=
+			Y6gvzvZyFlmZBvbhlNcHLegDOjt9yKmnUY44gXIHtzI=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			37rENJRwYCiosfvegGFCAcN65Z8tmVxApGdy7b4Ifvo=
+			W1rPTbBQE4ZvTfQub5pROpFNV8wYXaczjy6xxvbT9BQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -321,13 +317,6 @@
 			<key>hash2</key>
 			<data>
 			ZySPfoxu2zzn73Ow8ApTSn9CwRFs72POIbIDW16XmgY=
-			</data>
-		</dict>
-		<key>regula.license</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PUDXACDGoO26bIzx3d+ga/tsPfRzcrm7PsYwycQ7hI4=
 			</data>
 		</dict>
 	</dict>

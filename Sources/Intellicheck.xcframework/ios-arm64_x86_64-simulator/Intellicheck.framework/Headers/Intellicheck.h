@@ -14,5 +14,3 @@ FOUNDATION_EXPORT double IntellicheckVersionNumber;
 FOUNDATION_EXPORT const unsigned char IntellicheckVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Intellicheck/PublicHeader.h>
-
-#import <DocumentReader/DocumentReader.h>
