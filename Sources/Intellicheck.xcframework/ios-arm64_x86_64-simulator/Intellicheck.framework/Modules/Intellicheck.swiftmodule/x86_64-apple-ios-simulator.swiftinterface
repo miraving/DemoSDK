@@ -118,6 +118,18 @@ final public class ConfigurationModel : Foundation.ObservableObject {
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set
   }
+  @Combine.Published @_projectedValueProperty($sendScanResults) final public var sendScanResults: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  final public var $sendScanResults: Combine.Published<Swift.Bool>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
   public init()
   @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
@@ -210,9 +222,28 @@ public struct Configurator {
       get
     }
   }
+  public var result: Combine.PassthroughSubject<Swift.Result<Intellicheck.DocumentScannerResult, any Swift.Error>, Swift.Never> {
+    get
+  }
   public init()
   public func start(configuration: Intellicheck.ConfigurationModel, documentType: Intellicheck.Configurator.DocumentType? = nil) -> some SwiftUICore.View
   
+}
+public struct DocumentScannerResult {
+  public let firstName: Swift.String?
+  public let lastName: Swift.String?
+  public let age: Swift.Int?
+  public let birthdate: Swift.String?
+  public let gender: Swift.String?
+  public let eye: Swift.String?
+  public let hair: Swift.String?
+  public let height: Swift.String?
+  public let weight: Swift.String?
+  public let address: Swift.String?
+  public var fullName: Swift.String {
+    get
+  }
+  public init(firstName: Swift.String? = nil, lastName: Swift.String? = nil, age: Swift.Int? = nil, birthdate: Swift.String? = nil, gender: Swift.String? = nil, eye: Swift.String? = nil, hair: Swift.String? = nil, height: Swift.String? = nil, weight: Swift.String? = nil, address: Swift.String? = nil)
 }
 extension Intellicheck.Configurator.DocumentType : Swift.Equatable {}
 extension Intellicheck.Configurator.DocumentType : Swift.Hashable {}

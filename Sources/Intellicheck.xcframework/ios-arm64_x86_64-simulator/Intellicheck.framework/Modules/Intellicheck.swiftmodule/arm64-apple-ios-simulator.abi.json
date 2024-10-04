@@ -1967,6 +1967,227 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "sendScanResults",
+            "printedName": "sendScanResults",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck18ConfigurationModelC15sendScanResultsSbvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC15sendScanResultsSbvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "Final",
+              "ProjectedValueProperty",
+              "AccessControl",
+              "Custom",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC15sendScanResultsSbvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC15sendScanResultsSbvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC15sendScanResultsSbvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC15sendScanResultsSbvs",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC15sendScanResultsSbvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC15sendScanResultsSbvM",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "$sendScanResults",
+            "printedName": "$sendScanResults",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Publisher",
+                "printedName": "Combine.Published<Swift.Bool>.Publisher",
+                "usr": "s:7Combine9PublishedV9PublisherV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_Gvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_Gvp",
+            "moduleName": "Intellicheck",
+            "implicit": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<Swift.Bool>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_Gvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_Gvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<Swift.Bool>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_Gvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_Gvs",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_GvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC16$sendScanResults7Combine9PublishedV9PublisherVySb_GvM",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -4672,13 +4893,20 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "Combine",
+        "printedName": "Combine",
         "declKind": "Import",
         "moduleName": "Intellicheck",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -4945,6 +5173,108 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "result",
+            "printedName": "result",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PassthroughSubject",
+                "printedName": "Combine.PassthroughSubject<Swift.Result<Intellicheck.DocumentScannerResult, any Swift.Error>, Swift.Never>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Intellicheck.DocumentScannerResult, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DocumentScannerResult",
+                        "printedName": "Intellicheck.DocumentScannerResult",
+                        "usr": "s:12Intellicheck21DocumentScannerResultV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Never",
+                    "printedName": "Swift.Never",
+                    "usr": "s:s5NeverO"
+                  }
+                ],
+                "usr": "s:7Combine18PassthroughSubjectC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck12ConfiguratorV6result7Combine18PassthroughSubjectCys6ResultOyAA015DocumentScannerG0Vs5Error_pGs5NeverOGvp",
+            "mangledName": "$s12Intellicheck12ConfiguratorV6result7Combine18PassthroughSubjectCys6ResultOyAA015DocumentScannerG0Vs5Error_pGs5NeverOGvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PassthroughSubject",
+                    "printedName": "Combine.PassthroughSubject<Swift.Result<Intellicheck.DocumentScannerResult, any Swift.Error>, Swift.Never>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Result",
+                        "printedName": "Swift.Result<Intellicheck.DocumentScannerResult, any Swift.Error>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "DocumentScannerResult",
+                            "printedName": "Intellicheck.DocumentScannerResult",
+                            "usr": "s:12Intellicheck21DocumentScannerResultV"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:s6ResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Never",
+                        "printedName": "Swift.Never",
+                        "usr": "s:s5NeverO"
+                      }
+                    ],
+                    "usr": "s:7Combine18PassthroughSubjectC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck12ConfiguratorV6result7Combine18PassthroughSubjectCys6ResultOyAA015DocumentScannerG0Vs5Error_pGs5NeverOGvg",
+                "mangledName": "$s12Intellicheck12ConfiguratorV6result7Combine18PassthroughSubjectCys6ResultOyAA015DocumentScannerG0Vs5Error_pGs5NeverOGvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -5020,6 +5350,870 @@
         "declKind": "Struct",
         "usr": "s:12Intellicheck12ConfiguratorV",
         "mangledName": "$s12Intellicheck12ConfiguratorV",
+        "moduleName": "Intellicheck",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DocumentScannerResult",
+        "printedName": "DocumentScannerResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "firstName",
+            "printedName": "firstName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV9firstNameSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV9firstNameSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV9firstNameSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV9firstNameSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "lastName",
+            "printedName": "lastName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV8lastNameSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV8lastNameSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV8lastNameSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV8lastNameSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "age",
+            "printedName": "age",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV3ageSiSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV3ageSiSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV3ageSiSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV3ageSiSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "birthdate",
+            "printedName": "birthdate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV9birthdateSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV9birthdateSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV9birthdateSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV9birthdateSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "gender",
+            "printedName": "gender",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV6genderSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV6genderSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV6genderSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV6genderSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "eye",
+            "printedName": "eye",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV3eyeSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV3eyeSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV3eyeSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV3eyeSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "hair",
+            "printedName": "hair",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV4hairSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV4hairSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV4hairSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV4hairSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "height",
+            "printedName": "height",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV6heightSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV6heightSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV6heightSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV6heightSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "weight",
+            "printedName": "weight",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV6weightSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV6weightSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV6weightSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV6weightSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "address",
+            "printedName": "address",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV7addressSSSgvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV7addressSSSgvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV7addressSSSgvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV7addressSSSgvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "fullName",
+            "printedName": "fullName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck21DocumentScannerResultV8fullNameSSvp",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV8fullNameSSvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck21DocumentScannerResultV8fullNameSSvg",
+                "mangledName": "$s12Intellicheck21DocumentScannerResultV8fullNameSSvg",
+                "moduleName": "Intellicheck",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(firstName:lastName:age:birthdate:gender:eye:hair:height:weight:address:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DocumentScannerResult",
+                "printedName": "Intellicheck.DocumentScannerResult",
+                "usr": "s:12Intellicheck21DocumentScannerResultV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12Intellicheck21DocumentScannerResultV9firstName04lastF03age9birthdate6gender3eye4hair6height6weight7addressACSSSg_ANSiSgA7Ntcfc",
+            "mangledName": "$s12Intellicheck21DocumentScannerResultV9firstName04lastF03age9birthdate6gender3eye4hair6height6weight7addressACSSSg_ANSiSgA7Ntcfc",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:12Intellicheck21DocumentScannerResultV",
+        "mangledName": "$s12Intellicheck21DocumentScannerResultV",
         "moduleName": "Intellicheck",
         "declAttributes": [
           "AccessControl",
@@ -5250,6 +6444,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1627,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
       "kind": "FloatLiteral",
       "offset": 506,
@@ -5346,6 +6547,20 @@
       "offset": 424,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Models\/APIResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 871,
+      "length": 12,
+      "value": "\"extendidId\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Models\/APIResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 907,
+      "length": 5,
+      "value": "\"OCR\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Routers\/APIRouterProtocol.swift",
@@ -5504,14 +6719,14 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/AlertPopup.swift",
       "kind": "StringLiteral",
-      "offset": 2530,
+      "offset": 2536,
       "length": 9,
       "value": "\"Preview\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/AlertPopup.swift",
       "kind": "StringLiteral",
-      "offset": 2565,
+      "offset": 2571,
       "length": 17,
       "value": "\"Preview message\""
     },
@@ -5609,7 +6824,14 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Configurator.swift",
       "kind": "BooleanLiteral",
-      "offset": 1731,
+      "offset": 2705,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Configurator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9165,
       "length": 5,
       "value": "false"
     },
