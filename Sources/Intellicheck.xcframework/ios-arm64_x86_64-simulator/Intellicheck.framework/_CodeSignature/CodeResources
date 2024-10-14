@@ -74,43 +74,43 @@
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		RrcqcSvSnBGCSPWOvsq3idsjKo4=
+		cp24ljESGFfyc546H8k4TVYyjbE=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DmQkh21f2tQPQ32T+Moslh9GGJo=
+		lwJQhj5617bEW4o+V5B0Vgm/IlY=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ti3G/SZOeQGN5JoGtThgnAye6Pw=
+		4/jk4lGLCkT2dlvrI2f/+uy5A8k=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DmQkh21f2tQPQ32T+Moslh9GGJo=
+		lwJQhj5617bEW4o+V5B0Vgm/IlY=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		25ni4ycgow9PKCCK1XVZ6+A4afk=
+		MGbpr6S7TFjPMeOBBnJy23Iv0U8=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		RrcqcSvSnBGCSPWOvsq3idsjKo4=
+		cp24ljESGFfyc546H8k4TVYyjbE=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		B008HYlpNPp6fzg3q8mRwlQk6Vw=
+		2u5NGKU7s7H5NVH8Fe5bRZY83CY=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JViJ4iZmP4TWT2yYtZV4osKgh+0=
+		q73+/FY8ziRqUURaldGdvxaTgpc=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		B008HYlpNPp6fzg3q8mRwlQk6Vw=
+		2u5NGKU7s7H5NVH8Fe5bRZY83CY=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dc6ZW+Zi1VJyUXPX344yiT6tHC4=
+		PqetC7ICkIVpzNljQyBByxUOIrI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -255,70 +255,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Pd7MBKAFQUdVoqkNK04spf209aifoRnx5h0yGhp8jE=
+			CzqcGWiYrMqO6SxskPh5IJocvEZrCoxkp6wnAkjFtuY=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n7FtTZnyIPq6h/jEyku82hfjKIv8HR/OPeMKKY9ND5s=
+			hJhEXIkkOedjS36L9rjAJB0d5Y3f0Chk5vBuPZOrGn4=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vb4gPM1j7zOl6sYSvVTZUYh38vWcemq3z6hAHxzGHCU=
+			T9eS/BcfR8yXw+53x3kicFkwQpDyK4YZRlaE/19hWEA=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n7FtTZnyIPq6h/jEyku82hfjKIv8HR/OPeMKKY9ND5s=
+			hJhEXIkkOedjS36L9rjAJB0d5Y3f0Chk5vBuPZOrGn4=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9HGixVh/Nm1JNKzhopJ/29j2IlQU40lfczNDCL9GCxk=
+			Ifm7wE22Vrydnwf1NxdFJNu2ngIeqSqCue/Ce+eJV4o=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Pd7MBKAFQUdVoqkNK04spf209aifoRnx5h0yGhp8jE=
+			CzqcGWiYrMqO6SxskPh5IJocvEZrCoxkp6wnAkjFtuY=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylz0qTksOQ0/DBnEVNTksN+UOX7kfRtPMQABg9hej70=
+			45XHwuOjXLJldkGd51s83pJWAgVwvo07r4oGONOf20c=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2brMO10EZvZlFV01qnL1nlKjjU7gqx2xhXRYwtWSXhY=
+			SnFfa3tyV9uvU33H9C1nDMgZFETtvME54pEBAaTESqM=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylz0qTksOQ0/DBnEVNTksN+UOX7kfRtPMQABg9hej70=
+			45XHwuOjXLJldkGd51s83pJWAgVwvo07r4oGONOf20c=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1UumAttLp231c6i70Uyj7kfTtf2S/dmbGJnHMRjkjM=
+			aF/Hkw/nTz9yKOjs8Cz6NnEGfh5bdSIdW3cl/UGbBQk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

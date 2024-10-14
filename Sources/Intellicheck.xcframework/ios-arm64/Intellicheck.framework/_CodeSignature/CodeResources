@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		THHViKubjIhJgrl9SKNkIM9vapA=
+		GSEdaxw3aq5iWC6fmIMZfZxWCr0=
 		</data>
 		<key>Barcode-1.json</key>
 		<data>
@@ -74,23 +74,23 @@
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		tLwE/15BfwQ0CW2f1MrHoMG+Ld4=
+		NSeC76xFwuwdwRfYiaTgz2hypIs=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		PvxtzFmO/upmNDMW9/AJhBXTRyg=
+		zkEzsDeOEaGUkjyGqS6PQVtsFJs=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		tmqq3inu7BjC3tVhfAso1AP3a/I=
+		URe5kK+nPf5H9qpw2IcquUzNIa0=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		PvxtzFmO/upmNDMW9/AJhBXTRyg=
+		zkEzsDeOEaGUkjyGqS6PQVtsFJs=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		MYGM9FbfQ07wZtSGHkgffDlqbn0=
+		Vv6vjagO+aZpDigVVKWe4kyFlRA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Zz+V845rbiWCSJVBFL+FaiOHa5gSBO/BL4WAMrXw7Q=
+			v3Fq3Ub7LLlNC+5t8J3WCyn3lPi7hUBqBPgEjidV0OA=
 			</data>
 		</dict>
 		<key>Barcode-1.json</key>
@@ -235,35 +235,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X/vjyIgOXAKhnN31EiH5YdsOeMWeqCc40nj4tNoiM+8=
+			kUnDdAw+V9dRnJCwS66I/7H4kfuNT+4txof+4zC3/FM=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mP1gSb5CJB+tJEiHK1lnESrDWkjGNNEoknq47U5FRL8=
+			0lbXykfGEzzXTi+kX629KxUWqQQZVPVvGVOcn6BaKLk=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N//93XXDw7+on9zZHHSqZ+gbo1ss/BCJlpanHSl+r7o=
+			tOIiu9IcnghBDA2WFMK7MBDtYNfbZwxk4QTPyU+lLX4=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mP1gSb5CJB+tJEiHK1lnESrDWkjGNNEoknq47U5FRL8=
+			0lbXykfGEzzXTi+kX629KxUWqQQZVPVvGVOcn6BaKLk=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJAk9EEMrhsaQN1XPMKu6shPQ2XS3UE20fTfHcY3QXw=
+			1ndVNaJoXsCkKZEE8/L1jorkpztrXwrbeHZo699eG9M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
