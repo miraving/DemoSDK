@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		GSEdaxw3aq5iWC6fmIMZfZxWCr0=
+		7RDAszYZfUHZDTknjz38igYZ35Q=
 		</data>
 		<key>Barcode-1.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ceLvYM9zhdDNtVQTGN9B/wOfp0Y=
+		cPAiSlGQNChYyRlNJBXJn7qrK9I=
 		</data>
 		<key>Intellicheck.xcscheme</key>
 		<data>
@@ -74,43 +74,43 @@
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cp24ljESGFfyc546H8k4TVYyjbE=
+		/THjVqiIySayLVdGWTBUCXo88O8=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lwJQhj5617bEW4o+V5B0Vgm/IlY=
+		0mofIDyXQeUHqXhfeghn6l2XfZI=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		4/jk4lGLCkT2dlvrI2f/+uy5A8k=
+		ytcKIgwuZxl10+c2TCzyqPQ2PiM=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lwJQhj5617bEW4o+V5B0Vgm/IlY=
+		0mofIDyXQeUHqXhfeghn6l2XfZI=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MGbpr6S7TFjPMeOBBnJy23Iv0U8=
+		RN9JRfGqOG4wpbLixusq3wWROH8=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cp24ljESGFfyc546H8k4TVYyjbE=
+		/THjVqiIySayLVdGWTBUCXo88O8=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2u5NGKU7s7H5NVH8Fe5bRZY83CY=
+		k2SocWq77M1L3RcKrenGzbkBsgc=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		q73+/FY8ziRqUURaldGdvxaTgpc=
+		18NNl+UhFgKsi4rx/kynlUEK2v8=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2u5NGKU7s7H5NVH8Fe5bRZY83CY=
+		k2SocWq77M1L3RcKrenGzbkBsgc=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PqetC7ICkIVpzNljQyBByxUOIrI=
+		TP/BOy3iczUMlK0fNtPUBbbrWoM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v3Fq3Ub7LLlNC+5t8J3WCyn3lPi7hUBqBPgEjidV0OA=
+			syqbwBxcy+TG6VfZ0X0xF7LIGTzPGWxIXh7/TvarGd8=
 			</data>
 		</dict>
 		<key>Barcode-1.json</key>
@@ -255,70 +255,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CzqcGWiYrMqO6SxskPh5IJocvEZrCoxkp6wnAkjFtuY=
+			aO5jnxkLv64jQDSCINxX28PFGhAVVlHBMuNXClULakE=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hJhEXIkkOedjS36L9rjAJB0d5Y3f0Chk5vBuPZOrGn4=
+			3GSPjZu2hjHJCYVbV6eZu3wcFPxG2XB8a53CtJACHos=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T9eS/BcfR8yXw+53x3kicFkwQpDyK4YZRlaE/19hWEA=
+			0hO75Jhl3BhMCME5+j6o22ZEiiWfXGOZyEb1xMmCF9k=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hJhEXIkkOedjS36L9rjAJB0d5Y3f0Chk5vBuPZOrGn4=
+			3GSPjZu2hjHJCYVbV6eZu3wcFPxG2XB8a53CtJACHos=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ifm7wE22Vrydnwf1NxdFJNu2ngIeqSqCue/Ce+eJV4o=
+			rlW3bv63Mu0OempZgNqEX32WdcDVHWoTmHiSfNfWuEQ=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CzqcGWiYrMqO6SxskPh5IJocvEZrCoxkp6wnAkjFtuY=
+			aO5jnxkLv64jQDSCINxX28PFGhAVVlHBMuNXClULakE=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			45XHwuOjXLJldkGd51s83pJWAgVwvo07r4oGONOf20c=
+			mwBlaWD9tA5L0lnUpNhKMxZcyvbOubSFDLONT0Pre+w=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SnFfa3tyV9uvU33H9C1nDMgZFETtvME54pEBAaTESqM=
+			uSFAXHNWEpX3n99CaL2JyAqCqxe2NcZyvandcoKR6HA=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			45XHwuOjXLJldkGd51s83pJWAgVwvo07r4oGONOf20c=
+			mwBlaWD9tA5L0lnUpNhKMxZcyvbOubSFDLONT0Pre+w=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aF/Hkw/nTz9yKOjs8Cz6NnEGfh5bdSIdW3cl/UGbBQk=
+			pP4WmcNWmwKq9MKb1Nijh9pLCc23+7IK+M4ZdcxDChw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

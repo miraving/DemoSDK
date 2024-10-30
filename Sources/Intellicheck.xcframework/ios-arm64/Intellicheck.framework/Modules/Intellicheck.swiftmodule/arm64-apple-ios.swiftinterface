@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target arm64-apple-ios17.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Intellicheck
 import AVFoundation
 import Combine
@@ -141,8 +141,7 @@ final public class ConfigurationModel : Foundation.ObservableObject {
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set
   }
-  public init()
-  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  public init(customerId: Swift.String)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
@@ -200,7 +199,6 @@ final public class ICTheme : Combine.ObservableObject {
     set
   }
   public init(colors: Intellicheck.ICColor = ICColor(), fonts: Intellicheck.ICFont = ICFont(), buttonCornerRadius: Swift.Double = 10.0)
-  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
@@ -223,6 +221,7 @@ public struct ICFont {
   public init()
   public init(navigationTitle: SwiftUICore.Font, title: SwiftUICore.Font, bodyRegular: SwiftUICore.Font, bodySemibold: SwiftUICore.Font, buttonTitle: SwiftUICore.Font)
 }
+
 
 
 

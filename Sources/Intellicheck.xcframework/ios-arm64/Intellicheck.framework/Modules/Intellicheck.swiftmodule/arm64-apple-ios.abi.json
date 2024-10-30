@@ -2411,18 +2411,24 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init()",
+            "printedName": "init(customerId:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "ConfigurationModel",
                 "printedName": "Intellicheck.ConfigurationModel",
                 "usr": "s:12Intellicheck18ConfigurationModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12Intellicheck18ConfigurationModelCACycfc",
-            "mangledName": "$s12Intellicheck18ConfigurationModelCACycfc",
+            "usr": "s:12Intellicheck18ConfigurationModelC10customerIdACSS_tcfc",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC10customerIdACSS_tcfc",
             "moduleName": "Intellicheck",
             "declAttributes": [
               "AccessControl",
@@ -6618,63 +6624,63 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Helpers\/UITestingHelpers.swift",
       "kind": "BooleanLiteral",
-      "offset": 13667,
+      "offset": 13815,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 630,
+      "offset": 686,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 801,
+      "offset": 857,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "StringLiteral",
-      "offset": 913,
+      "offset": 969,
       "length": 45,
       "value": "\"https:\/\/www.intellicheck.com\/privacy-policy\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "StringLiteral",
-      "offset": 1072,
+      "offset": 1128,
       "length": 59,
       "value": "\"https:\/\/www.intellicheck.com\/biometric-information-policy\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1249,
+      "offset": 1305,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1304,
+      "offset": 1360,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1627,
+      "offset": 1683,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1902,
+      "offset": 1958,
       "length": 4,
       "value": "true"
     },
@@ -6793,14 +6799,14 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Routers\/APIRouterProtocol.swift",
       "kind": "StringLiteral",
-      "offset": 917,
+      "offset": 731,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Routers\/APIRouterProtocol.swift",
       "kind": "StringLiteral",
-      "offset": 939,
+      "offset": 753,
       "length": 6,
       "value": "\"POST\""
     },
@@ -6821,7 +6827,7 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Reader\/ICCameraReader.swift",
       "kind": "IntegerLiteral",
-      "offset": 546,
+      "offset": 998,
       "length": 2,
       "value": "30"
     },
@@ -6835,72 +6841,58 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 7880,
+      "offset": 2708,
+      "length": 6,
+      "value": "\"1111\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
+      "kind": "StringLiteral",
+      "offset": 7859,
       "length": 29,
       "value": "\"Driver’s License\/State ID\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 7933,
+      "offset": 7912,
       "length": 18,
       "value": "\"Passport Booklet\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 7972,
+      "offset": 7951,
       "length": 15,
       "value": "\"Passport Card\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 283,
+      "offset": 234,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 333,
+      "offset": 284,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 374,
+      "offset": 325,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 430,
+      "offset": 381,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 653,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 686,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 712,
-      "length": 3,
-      "value": "0.0"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/2 Flow Driver LIcense\/DriverView.swift",
@@ -6908,6 +6900,13 @@
       "offset": 1351,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/3 Flow Bar Code\/BarcodeView.swift",
+      "kind": "StringLiteral",
+      "offset": 1227,
+      "length": 6,
+      "value": "\"1111\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/4 Flow Passport Booklet\/PassportBookletView.swift",
@@ -6919,14 +6918,21 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/5 Flow Passport Card\/PassportCardFrontView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1438,
+      "offset": 1444,
       "length": 5,
       "value": "false"
     },
     {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Additional Screens\/BiometricPolicyView\/BiometricPolicyView.swift",
+      "kind": "StringLiteral",
+      "offset": 762,
+      "length": 6,
+      "value": "\"1111\""
+    },
+    {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/ProgressBar\/ProgressBarView.swift",
       "kind": "FloatLiteral",
-      "offset": 2123,
+      "offset": 2207,
       "length": 3,
       "value": "0.0"
     },
@@ -7022,6 +7028,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/ReatkeView\/RetakeView.swift",
+      "kind": "StringLiteral",
+      "offset": 1616,
+      "length": 6,
+      "value": "\"1111\""
+    },
+    {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/RFID\/RFIDView.swift",
       "kind": "IntegerLiteral",
       "offset": 384,
@@ -7052,14 +7065,14 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Configurator.swift",
       "kind": "BooleanLiteral",
-      "offset": 2909,
+      "offset": 2972,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Configurator.swift",
       "kind": "BooleanLiteral",
-      "offset": 9369,
+      "offset": 9432,
       "length": 5,
       "value": "false"
     },
@@ -7094,126 +7107,140 @@
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1365,
+      "offset": 1361,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1521,
+      "length": 13,
+      "value": "\"error_light\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1680,
       "length": 12,
       "value": "\"main_Color\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1526,
+      "offset": 1841,
       "length": 11,
       "value": "\"main_Font\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1848,
+      "offset": 2163,
       "length": 21,
       "value": "\"barcodeScanningDone\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2028,
+      "offset": 2343,
       "length": 16,
       "value": "\"barcode_static\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2206,
+      "offset": 2521,
       "length": 17,
       "value": "\"biometricPolicy\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2384,
+      "offset": 2699,
       "length": 17,
       "value": "\"circle_progress\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2555,
+      "offset": 2870,
       "length": 13,
       "value": "\"defaultLogo\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2740,
+      "offset": 3055,
       "length": 23,
       "value": "\"document_not_detected\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2923,
+      "offset": 3238,
       "length": 16,
       "value": "\"everythingDone\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3088,
+      "offset": 3403,
       "length": 11,
       "value": "\"flash_off\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3246,
+      "offset": 3561,
       "length": 10,
       "value": "\"flash_on\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3401,
+      "offset": 3716,
       "length": 9,
       "value": "\"id_card\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3584,
+      "offset": 3899,
       "length": 24,
       "value": "\"no_internet_connection\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3765,
+      "offset": 4080,
       "length": 15,
       "value": "\"passport_book\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3937,
+      "offset": 4252,
       "length": 15,
       "value": "\"passport_card\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4105,
+      "offset": 4420,
       "length": 13,
       "value": "\"result_icon\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4258,
+      "offset": 4573,
       "length": 6,
       "value": "\"rfid\""
     },
     {
       "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4419,
+      "offset": 4734,
       "length": 14,
       "value": "\"success_rfid\""
     }
