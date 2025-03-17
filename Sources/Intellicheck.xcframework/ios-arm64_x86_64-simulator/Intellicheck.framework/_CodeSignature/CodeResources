@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		7RDAszYZfUHZDTknjz38igYZ35Q=
+		J4Z5HdjXE+cz/4/NNfyrM7E3vhg=
 		</data>
 		<key>Barcode-1.json</key>
 		<data>
@@ -54,11 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cPAiSlGQNChYyRlNJBXJn7qrK9I=
-		</data>
-		<key>Intellicheck.xcscheme</key>
-		<data>
-		kz15zCG/cEv+jEYWc5Un340om3g=
+		on8XjN6/kEjv0hTSisDypHxlhNs=
 		</data>
 		<key>Inter-Bold.otf</key>
 		<data>
@@ -74,43 +70,43 @@
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/THjVqiIySayLVdGWTBUCXo88O8=
+		VaCckvLIFLubxq2VhfawWZ6MF7I=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0mofIDyXQeUHqXhfeghn6l2XfZI=
+		BA0HQ+FUNTr72b0zRRxT7hXdnzA=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ytcKIgwuZxl10+c2TCzyqPQ2PiM=
+		9uSJOpZHcww0BY037Frdhralz/Y=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0mofIDyXQeUHqXhfeghn6l2XfZI=
+		BA0HQ+FUNTr72b0zRRxT7hXdnzA=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RN9JRfGqOG4wpbLixusq3wWROH8=
+		7xcboLUlXOUkYJMJw8ZYm0QtVVY=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/THjVqiIySayLVdGWTBUCXo88O8=
+		VaCckvLIFLubxq2VhfawWZ6MF7I=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		k2SocWq77M1L3RcKrenGzbkBsgc=
+		u8dK2XodX8LE5boiYWWzYB7Y5d0=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		18NNl+UhFgKsi4rx/kynlUEK2v8=
+		YlGnF0140rdR36X7BstBWivo3yQ=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		k2SocWq77M1L3RcKrenGzbkBsgc=
+		u8dK2XodX8LE5boiYWWzYB7Y5d0=
 		</data>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TP/BOy3iczUMlK0fNtPUBbbrWoM=
+		62k55yvmhxS7gWnuWkeoNRL0R5k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -124,17 +120,61 @@
 		<data>
 		WMcz4ivO6vlgnOV47KkqwwPG2S8=
 		</data>
+		<key>enhance.png</key>
+		<data>
+		pX6hDUBlOTEIyrE1gVCfCpyfotk=
+		</data>
+		<key>enhance@2x.png</key>
+		<data>
+		AXmA08llpOYRirb7T2nnQz8Pwu4=
+		</data>
+		<key>enhance@3x.png</key>
+		<data>
+		uzeZttaMFjIKOrN+QdEMj1e68D0=
+		</data>
+		<key>flash.png</key>
+		<data>
+		a0rw3fV1/ICcS3+ysWia5kyq3Oo=
+		</data>
+		<key>flash@2x.png</key>
+		<data>
+		HTCU0d3q4eg/XCIxa0NzB9Eu1HA=
+		</data>
+		<key>flash@3x.png</key>
+		<data>
+		cf/NqfYmAzMpc/KGg4aZ+2/ydRg=
+		</data>
+		<key>flashUnavailable.png</key>
+		<data>
+		ReRt0DYE4ctoTq3/KJkIFwhSE/A=
+		</data>
+		<key>flashUnavailable@2x.png</key>
+		<data>
+		LUpA/gi/wuCui7sIZpoR3DHizNE=
+		</data>
+		<key>flashUnavailable@3x.png</key>
+		<data>
+		wEHoY+Ps7TxrqP4vYEyD8+cqFic=
+		</data>
 		<key>package.xcworkspace/contents.xcworkspacedata</key>
 		<data>
 		hCQ4SPVLDFmD4e0m3vtB0mLOE1Q=
 		</data>
-		<key>package.xcworkspace/xcuserdata/miraving.xcuserdatad/UserInterfaceState.xcuserstate</key>
+		<key>rotate.png</key>
 		<data>
-		Fx31elw6NY3y9na3/b7w8j1cPY8=
+		bdpivDPgpSzZmVMlSxnI9eahzmI=
+		</data>
+		<key>rotate@2x.png</key>
+		<data>
+		glaGV5mq132RFNTRwxKuAlTbg28=
+		</data>
+		<key>rotate@3x.png</key>
+		<data>
+		DAwgrFuY1491jkqTji2/+543e5Y=
 		</data>
 		<key>xcschememanagement.plist</key>
 		<data>
-		XQICVdC+R9m8xBIanpg55TWiTaY=
+		d198gHmkH3kFaiEj1zcrShjARDw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,7 +183,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			syqbwBxcy+TG6VfZ0X0xF7LIGTzPGWxIXh7/TvarGd8=
+			rIX1LdzzNf0oqBdOym/dTS8hryiI3yoOEaCMYqgKBMg=
 			</data>
 		</dict>
 		<key>Barcode-1.json</key>
@@ -223,13 +263,6 @@
 			colfFT61hWCV6s7wP8Vaq8ch73kzuHxpQ/92R7cRSFY=
 			</data>
 		</dict>
-		<key>Intellicheck.xcscheme</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pGRTYuCQldztZ87IEw7IXZd8H4BSCvMS4p1SCEGwOjo=
-			</data>
-		</dict>
 		<key>Inter-Bold.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -255,70 +288,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aO5jnxkLv64jQDSCINxX28PFGhAVVlHBMuNXClULakE=
+			aLHJTjM35rX4Bc0fJTvoInZS2F7AL0qrYwmAcWqYxZ0=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3GSPjZu2hjHJCYVbV6eZu3wcFPxG2XB8a53CtJACHos=
+			rr+IQckzGxkMTc4LWaFxoEf1tKSkoQtuRWRQmxEohnU=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0hO75Jhl3BhMCME5+j6o22ZEiiWfXGOZyEb1xMmCF9k=
+			bqrdVk8JhUG2Ji81RC0km4QT1EE3W24G7X7kTU+64pQ=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3GSPjZu2hjHJCYVbV6eZu3wcFPxG2XB8a53CtJACHos=
+			rr+IQckzGxkMTc4LWaFxoEf1tKSkoQtuRWRQmxEohnU=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rlW3bv63Mu0OempZgNqEX32WdcDVHWoTmHiSfNfWuEQ=
+			KVv0I2WG5aenn0SSQIcIIynxTEFsIMSiOA6i7fukn2A=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aO5jnxkLv64jQDSCINxX28PFGhAVVlHBMuNXClULakE=
+			aLHJTjM35rX4Bc0fJTvoInZS2F7AL0qrYwmAcWqYxZ0=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mwBlaWD9tA5L0lnUpNhKMxZcyvbOubSFDLONT0Pre+w=
+			nDXWs9E81j7GFGduAEKIS75nuOLGLb1TL/IENDXnSx0=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uSFAXHNWEpX3n99CaL2JyAqCqxe2NcZyvandcoKR6HA=
+			CS+6KDsyCPNuaGqcvuilSb3sqJl+CTJi+OxFFUGnOn8=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mwBlaWD9tA5L0lnUpNhKMxZcyvbOubSFDLONT0Pre+w=
+			nDXWs9E81j7GFGduAEKIS75nuOLGLb1TL/IENDXnSx0=
 			</data>
 		</dict>
 		<key>Modules/Intellicheck.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pP4WmcNWmwKq9MKb1Nijh9pLCc23+7IK+M4ZdcxDChw=
+			tH2ZmxUPbUo889Rm6iD54GUV1Hu+ep+9wsK9OKpXgwQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -342,6 +375,69 @@
 			ZySPfoxu2zzn73Ow8ApTSn9CwRFs72POIbIDW16XmgY=
 			</data>
 		</dict>
+		<key>enhance.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qZWMPJtpZfgpbX080Nk3qy+4phgZbJgMKzGunMtQPz4=
+			</data>
+		</dict>
+		<key>enhance@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3JxXdMFSCsXsqeA9DYNfo0QXB78EZGf0Sc6XGDoFigI=
+			</data>
+		</dict>
+		<key>enhance@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lBPNWybSbhrENp0nbHm48rUvkf3r7G7FQtc9n2VsgaY=
+			</data>
+		</dict>
+		<key>flash.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sBAfIa0cUZEZghmyZhQrkj7hgTUBzdeHfVeE15uiaY0=
+			</data>
+		</dict>
+		<key>flash@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S0GRtiV3mERuTJNXAI9rTNTjlbDpJH6oFgQ/jh2iqyo=
+			</data>
+		</dict>
+		<key>flash@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pryVQbQkt0tEHN0/grJ8E+wyH2of7DQWU4PKAX5hhNs=
+			</data>
+		</dict>
+		<key>flashUnavailable.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1nb4319n2yIwMxbb3WmJ46j4ex8aFnZVkJhvIkJcSWI=
+			</data>
+		</dict>
+		<key>flashUnavailable@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X4ExE7Pe80WbBkN2DD50X+iYg+sR7/uJ/Go51a2OBDA=
+			</data>
+		</dict>
+		<key>flashUnavailable@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oPS79QvWAZINp7QyfnxTatDB+hoPOVexHgiWJo0jxus=
+			</data>
+		</dict>
 		<key>package.xcworkspace/contents.xcworkspacedata</key>
 		<dict>
 			<key>hash2</key>
@@ -349,18 +445,32 @@
 			fzsAtcP9tFJC17h+HlxOJdH6gSmhbJQpXsxOjqIjXF8=
 			</data>
 		</dict>
-		<key>package.xcworkspace/xcuserdata/miraving.xcuserdatad/UserInterfaceState.xcuserstate</key>
+		<key>rotate.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xKmIH4pKZEsIN+pMZ1hDHtRa2GhOFfAguAsIQNJ3yuc=
+			rAwed+kaWCnBeWz7b0Vl56Ag9OXq4JmUvRV0kJe6qVE=
+			</data>
+		</dict>
+		<key>rotate@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F58ON3Fv2kMWRat7UYyhX/v/zPyoNLDcshzAAO24scg=
+			</data>
+		</dict>
+		<key>rotate@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qWF6j1Myv0wH9HtT3lfPBUkjdvnsZ0RMF0RhDQyKwvs=
 			</data>
 		</dict>
 		<key>xcschememanagement.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			38Kp9hbg+LzptYCZ4x+U5HKt0n+i7RI2hBXpwEDjg24=
+			S/eAM7g1jXNyPtX1vuxOIvdPYPV953HTa9RmsbETiZc=
 			</data>
 		</dict>
 	</dict>

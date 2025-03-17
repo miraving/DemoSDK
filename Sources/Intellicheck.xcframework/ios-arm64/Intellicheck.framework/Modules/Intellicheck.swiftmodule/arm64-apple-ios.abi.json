@@ -9,10 +9,7 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -30,43 +27,626 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreImage",
+        "printedName": "CoreImage",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreMotion",
+        "printedName": "CoreMotion",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreMotion",
+        "printedName": "CoreMotion",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -80,20 +660,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -107,20 +674,14 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -134,25 +695,12 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DocumentReader",
-        "printedName": "DocumentReader",
         "declKind": "Import",
         "moduleName": "Intellicheck"
       },
@@ -165,8 +713,8 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "Intellicheck"
       },
@@ -175,10 +723,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -201,19 +746,19 @@
         "children": [
           {
             "kind": "Var",
-            "name": "theme",
-            "printedName": "theme",
+            "name": "driverLicenseOnlyBarCode",
+            "printedName": "driverLicenseOnlyBarCode",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "ICTheme",
-                "printedName": "Intellicheck.ICTheme",
-                "usr": "s:12Intellicheck7ICThemeC"
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvp",
-            "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvp",
+            "usr": "s:12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvp",
             "moduleName": "Intellicheck",
             "declAttributes": [
               "Final",
@@ -230,14 +775,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ICTheme",
-                    "printedName": "Intellicheck.ICTheme",
-                    "usr": "s:12Intellicheck7ICThemeC"
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvg",
-                "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvg",
+                "usr": "s:12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -257,14 +802,14 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "ICTheme",
-                    "printedName": "Intellicheck.ICTheme",
-                    "usr": "s:12Intellicheck7ICThemeC"
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvs",
-                "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvs",
+                "usr": "s:12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -292,8 +837,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvM",
-                "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA7ICThemeCvM",
+                "usr": "s:12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC24driverLicenseOnlyBarCodeSbvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -313,19 +858,19 @@
           },
           {
             "kind": "Var",
-            "name": "$theme",
-            "printedName": "$theme",
+            "name": "$driverLicenseOnlyBarCode",
+            "printedName": "$driverLicenseOnlyBarCode",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Publisher",
-                "printedName": "Combine.Published<Intellicheck.ICTheme>.Publisher",
+                "printedName": "Combine.Published<Swift.Bool>.Publisher",
                 "usr": "s:7Combine9PublishedV9PublisherV"
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_Gvp",
-            "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_Gvp",
+            "usr": "s:12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_Gvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_Gvp",
             "moduleName": "Intellicheck",
             "implicit": true,
             "declAttributes": [
@@ -340,13 +885,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Publisher",
-                    "printedName": "Combine.Published<Intellicheck.ICTheme>.Publisher",
+                    "printedName": "Combine.Published<Swift.Bool>.Publisher",
                     "usr": "s:7Combine9PublishedV9PublisherV"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_Gvg",
-                "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_Gvg",
+                "usr": "s:12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_Gvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_Gvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -367,13 +912,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Publisher",
-                    "printedName": "Combine.Published<Intellicheck.ICTheme>.Publisher",
+                    "printedName": "Combine.Published<Swift.Bool>.Publisher",
                     "usr": "s:7Combine9PublishedV9PublisherV"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_Gvs",
-                "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_Gvs",
+                "usr": "s:12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_Gvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_Gvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -401,8 +946,229 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_GvM",
-                "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA7ICThemeC_GvM",
+                "usr": "s:12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_GvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC25$driverLicenseOnlyBarCode7Combine9PublishedV9PublisherVySb_GvM",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "theme",
+            "printedName": "theme",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Theme",
+                "printedName": "Intellicheck.Theme",
+                "usr": "s:12Intellicheck5ThemeC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck18ConfigurationModelC5themeAA5ThemeCvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA5ThemeCvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "Final",
+              "ProjectedValueProperty",
+              "AccessControl",
+              "Custom",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Theme",
+                    "printedName": "Intellicheck.Theme",
+                    "usr": "s:12Intellicheck5ThemeC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC5themeAA5ThemeCvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA5ThemeCvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Theme",
+                    "printedName": "Intellicheck.Theme",
+                    "usr": "s:12Intellicheck5ThemeC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC5themeAA5ThemeCvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA5ThemeCvs",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC5themeAA5ThemeCvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC5themeAA5ThemeCvM",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "$theme",
+            "printedName": "$theme",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Publisher",
+                "printedName": "Combine.Published<Intellicheck.Theme>.Publisher",
+                "usr": "s:7Combine9PublishedV9PublisherV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_Gvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_Gvp",
+            "moduleName": "Intellicheck",
+            "implicit": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<Intellicheck.Theme>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_Gvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_Gvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<Intellicheck.Theme>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_Gvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_Gvs",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_GvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC6$theme7Combine9PublishedV9PublisherVyAA5ThemeC_GvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -1766,7 +2532,8 @@
               "Final",
               "ProjectedValueProperty",
               "AccessControl",
-              "Custom"
+              "Custom",
+              "RawDocComment"
             ],
             "accessors": [
               {
@@ -2409,6 +3176,227 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "extraPixelForCropping",
+            "printedName": "extraPixelForCropping",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck18ConfigurationModelC21extraPixelForCropping14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC21extraPixelForCropping12CoreGraphics7CGFloatVvp",
+            "moduleName": "Intellicheck",
+            "declAttributes": [
+              "Final",
+              "ProjectedValueProperty",
+              "AccessControl",
+              "Custom",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC21extraPixelForCropping14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC21extraPixelForCropping12CoreGraphics7CGFloatVvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC21extraPixelForCropping14CoreFoundation7CGFloatVvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC21extraPixelForCropping12CoreGraphics7CGFloatVvs",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC21extraPixelForCropping14CoreFoundation7CGFloatVvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC21extraPixelForCropping12CoreGraphics7CGFloatVvM",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "10.15",
+                "intro_iOS": "13.0",
+                "intro_tvOS": "13.0",
+                "intro_watchOS": "6.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "$extraPixelForCropping",
+            "printedName": "$extraPixelForCropping",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Publisher",
+                "printedName": "Combine.Published<CoreGraphics.CGFloat>.Publisher",
+                "usr": "s:7Combine9PublishedV9PublisherV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy14CoreFoundation7CGFloatV_Gvp",
+            "mangledName": "$s12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy12CoreGraphics7CGFloatV_Gvp",
+            "moduleName": "Intellicheck",
+            "implicit": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<CoreGraphics.CGFloat>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy14CoreFoundation7CGFloatV_Gvg",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy12CoreGraphics7CGFloatV_Gvg",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<CoreGraphics.CGFloat>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy14CoreFoundation7CGFloatV_Gvs",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy12CoreGraphics7CGFloatV_Gvs",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy14CoreFoundation7CGFloatV_GvM",
+                "mangledName": "$s12Intellicheck18ConfigurationModelC22$extraPixelForCropping7Combine9PublishedV9PublisherVy12CoreGraphics7CGFloatV_GvM",
+                "moduleName": "Intellicheck",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Final",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(customerId:)",
@@ -2490,10 +3478,7 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "TypeDecl",
@@ -3351,13 +4336,31 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -3368,8 +4371,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "ICTheme",
-        "printedName": "ICTheme",
+        "name": "Theme",
+        "printedName": "Theme",
         "children": [
           {
             "kind": "Var",
@@ -3384,8 +4387,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck7ICThemeC6colorsAA7ICColorVvp",
-            "mangledName": "$s12Intellicheck7ICThemeC6colorsAA7ICColorVvp",
+            "usr": "s:12Intellicheck5ThemeC6colorsAA7ICColorVvp",
+            "mangledName": "$s12Intellicheck5ThemeC6colorsAA7ICColorVvp",
             "moduleName": "Intellicheck",
             "declAttributes": [
               "Final",
@@ -3408,8 +4411,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC6colorsAA7ICColorVvg",
-                "mangledName": "$s12Intellicheck7ICThemeC6colorsAA7ICColorVvg",
+                "usr": "s:12Intellicheck5ThemeC6colorsAA7ICColorVvg",
+                "mangledName": "$s12Intellicheck5ThemeC6colorsAA7ICColorVvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -3435,8 +4438,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC6colorsAA7ICColorVvs",
-                "mangledName": "$s12Intellicheck7ICThemeC6colorsAA7ICColorVvs",
+                "usr": "s:12Intellicheck5ThemeC6colorsAA7ICColorVvs",
+                "mangledName": "$s12Intellicheck5ThemeC6colorsAA7ICColorVvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -3464,8 +4467,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC6colorsAA7ICColorVvM",
-                "mangledName": "$s12Intellicheck7ICThemeC6colorsAA7ICColorVvM",
+                "usr": "s:12Intellicheck5ThemeC6colorsAA7ICColorVvM",
+                "mangledName": "$s12Intellicheck5ThemeC6colorsAA7ICColorVvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -3496,8 +4499,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvp",
-            "mangledName": "$s12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvp",
+            "usr": "s:12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvp",
+            "mangledName": "$s12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvp",
             "moduleName": "Intellicheck",
             "implicit": true,
             "declAttributes": [
@@ -3517,8 +4520,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvg",
-                "mangledName": "$s12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvg",
+                "usr": "s:12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvg",
+                "mangledName": "$s12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -3544,8 +4547,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvs",
-                "mangledName": "$s12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvs",
+                "usr": "s:12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvs",
+                "mangledName": "$s12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_Gvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -3573,8 +4576,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_GvM",
-                "mangledName": "$s12Intellicheck7ICThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_GvM",
+                "usr": "s:12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_GvM",
+                "mangledName": "$s12Intellicheck5ThemeC7$colors7Combine9PublishedV9PublisherVyAA7ICColorV_GvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -3605,8 +4608,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck7ICThemeC5fontsAA6ICFontVvp",
-            "mangledName": "$s12Intellicheck7ICThemeC5fontsAA6ICFontVvp",
+            "usr": "s:12Intellicheck5ThemeC5fontsAA6ICFontVvp",
+            "mangledName": "$s12Intellicheck5ThemeC5fontsAA6ICFontVvp",
             "moduleName": "Intellicheck",
             "declAttributes": [
               "Final",
@@ -3629,8 +4632,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC5fontsAA6ICFontVvg",
-                "mangledName": "$s12Intellicheck7ICThemeC5fontsAA6ICFontVvg",
+                "usr": "s:12Intellicheck5ThemeC5fontsAA6ICFontVvg",
+                "mangledName": "$s12Intellicheck5ThemeC5fontsAA6ICFontVvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -3656,8 +4659,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC5fontsAA6ICFontVvs",
-                "mangledName": "$s12Intellicheck7ICThemeC5fontsAA6ICFontVvs",
+                "usr": "s:12Intellicheck5ThemeC5fontsAA6ICFontVvs",
+                "mangledName": "$s12Intellicheck5ThemeC5fontsAA6ICFontVvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -3685,8 +4688,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC5fontsAA6ICFontVvM",
-                "mangledName": "$s12Intellicheck7ICThemeC5fontsAA6ICFontVvM",
+                "usr": "s:12Intellicheck5ThemeC5fontsAA6ICFontVvM",
+                "mangledName": "$s12Intellicheck5ThemeC5fontsAA6ICFontVvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -3717,8 +4720,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvp",
-            "mangledName": "$s12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvp",
+            "usr": "s:12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvp",
+            "mangledName": "$s12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvp",
             "moduleName": "Intellicheck",
             "implicit": true,
             "declAttributes": [
@@ -3738,8 +4741,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvg",
-                "mangledName": "$s12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvg",
+                "usr": "s:12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvg",
+                "mangledName": "$s12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -3765,8 +4768,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvs",
-                "mangledName": "$s12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvs",
+                "usr": "s:12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvs",
+                "mangledName": "$s12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_Gvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -3794,8 +4797,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_GvM",
-                "mangledName": "$s12Intellicheck7ICThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_GvM",
+                "usr": "s:12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_GvM",
+                "mangledName": "$s12Intellicheck5ThemeC6$fonts7Combine9PublishedV9PublisherVyAA6ICFontV_GvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -3826,8 +4829,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck7ICThemeC18buttonCornerRadiusSdvp",
-            "mangledName": "$s12Intellicheck7ICThemeC18buttonCornerRadiusSdvp",
+            "usr": "s:12Intellicheck5ThemeC18buttonCornerRadiusSdvp",
+            "mangledName": "$s12Intellicheck5ThemeC18buttonCornerRadiusSdvp",
             "moduleName": "Intellicheck",
             "declAttributes": [
               "Final",
@@ -3850,8 +4853,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC18buttonCornerRadiusSdvg",
-                "mangledName": "$s12Intellicheck7ICThemeC18buttonCornerRadiusSdvg",
+                "usr": "s:12Intellicheck5ThemeC18buttonCornerRadiusSdvg",
+                "mangledName": "$s12Intellicheck5ThemeC18buttonCornerRadiusSdvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -3877,8 +4880,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC18buttonCornerRadiusSdvs",
-                "mangledName": "$s12Intellicheck7ICThemeC18buttonCornerRadiusSdvs",
+                "usr": "s:12Intellicheck5ThemeC18buttonCornerRadiusSdvs",
+                "mangledName": "$s12Intellicheck5ThemeC18buttonCornerRadiusSdvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -3906,8 +4909,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC18buttonCornerRadiusSdvM",
-                "mangledName": "$s12Intellicheck7ICThemeC18buttonCornerRadiusSdvM",
+                "usr": "s:12Intellicheck5ThemeC18buttonCornerRadiusSdvM",
+                "mangledName": "$s12Intellicheck5ThemeC18buttonCornerRadiusSdvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -3938,8 +4941,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvp",
-            "mangledName": "$s12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvp",
+            "usr": "s:12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvp",
+            "mangledName": "$s12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvp",
             "moduleName": "Intellicheck",
             "implicit": true,
             "declAttributes": [
@@ -3959,8 +4962,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvg",
-                "mangledName": "$s12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvg",
+                "usr": "s:12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvg",
+                "mangledName": "$s12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvg",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "declAttributes": [
@@ -3986,8 +4989,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvs",
-                "mangledName": "$s12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvs",
+                "usr": "s:12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvs",
+                "mangledName": "$s12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_Gvs",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -4015,8 +5018,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_GvM",
-                "mangledName": "$s12Intellicheck7ICThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_GvM",
+                "usr": "s:12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_GvM",
+                "mangledName": "$s12Intellicheck5ThemeC19$buttonCornerRadius7Combine9PublishedV9PublisherVySd_GvM",
                 "moduleName": "Intellicheck",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -4041,9 +5044,9 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "ICTheme",
-                "printedName": "Intellicheck.ICTheme",
-                "usr": "s:12Intellicheck7ICThemeC"
+                "name": "Theme",
+                "printedName": "Intellicheck.Theme",
+                "usr": "s:12Intellicheck5ThemeC"
               },
               {
                 "kind": "TypeNominal",
@@ -4068,8 +5071,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:12Intellicheck7ICThemeC6colors5fonts18buttonCornerRadiusAcA7ICColorV_AA6ICFontVSdtcfc",
-            "mangledName": "$s12Intellicheck7ICThemeC6colors5fonts18buttonCornerRadiusAcA7ICColorV_AA6ICFontVSdtcfc",
+            "usr": "s:12Intellicheck5ThemeC6colors5fonts18buttonCornerRadiusAcA7ICColorV_AA6ICFontVSdtcfc",
+            "mangledName": "$s12Intellicheck5ThemeC6colors5fonts18buttonCornerRadiusAcA7ICColorV_AA6ICFontVSdtcfc",
             "moduleName": "Intellicheck",
             "declAttributes": [
               "AccessControl"
@@ -4078,8 +5081,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:12Intellicheck7ICThemeC",
-        "mangledName": "$s12Intellicheck7ICThemeC",
+        "usr": "s:12Intellicheck5ThemeC",
+        "mangledName": "$s12Intellicheck5ThemeC",
         "moduleName": "Intellicheck",
         "declAttributes": [
           "Final",
@@ -5293,16 +6296,6 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "DocumentReader",
-        "printedName": "DocumentReader",
-        "declKind": "Import",
         "moduleName": "Intellicheck"
       },
       {
@@ -5317,16 +6310,6 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
         "moduleName": "Intellicheck"
       },
       {
@@ -5341,33 +6324,17 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5381,30 +6348,21 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5422,78 +6380,10 @@
       },
       {
         "kind": "Import",
-        "name": "DocumentReader",
-        "printedName": "DocumentReader",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "Intellicheck"
-      },
-      {
-        "kind": "Import",
-        "name": "os",
-        "printedName": "os",
-        "declKind": "Import",
-        "moduleName": "Intellicheck"
-      },
-      {
-        "kind": "Import",
-        "name": "DocumentReader",
-        "printedName": "DocumentReader",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
         "moduleName": "Intellicheck"
-      },
-      {
-        "kind": "Import",
-        "name": "DocumentReader",
-        "printedName": "DocumentReader",
-        "declKind": "Import",
-        "moduleName": "Intellicheck"
-      },
-      {
-        "kind": "Import",
-        "name": "os",
-        "printedName": "os",
-        "declKind": "Import",
-        "moduleName": "Intellicheck"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -5507,10 +6397,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5524,10 +6411,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5548,10 +6432,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5572,10 +6453,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5596,10 +6474,14 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5623,10 +6505,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5647,10 +6526,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5706,10 +6582,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5744,50 +6617,28 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5801,40 +6652,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5848,50 +6666,63 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5905,10 +6736,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5922,20 +6750,14 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "Intellicheck",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "Intellicheck"
       },
       {
         "kind": "Import",
@@ -5965,13 +6787,6 @@
         "kind": "Import",
         "name": "Combine",
         "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "Intellicheck"
-      },
-      {
-        "kind": "Import",
-        "name": "DocumentReader",
-        "printedName": "DocumentReader",
         "declKind": "Import",
         "moduleName": "Intellicheck"
       },
@@ -6490,6 +7305,93 @@
         "printedName": "DeveloperToolsSupport",
         "declKind": "Import",
         "moduleName": "Intellicheck"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AVCaptureDevice",
+        "printedName": "AVCaptureDevice",
+        "declKind": "Class",
+        "usr": "c:objc(cs)AVCaptureDevice",
+        "moduleName": "AVFoundation",
+        "isOpen": true,
+        "intro_iOS": "4.0",
+        "objc_name": "AVCaptureDevice",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
@@ -6498,301 +7400,1008 @@
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Base\/BaseViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 207,
+      "offset": 120,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Base\/BaseViewModel.swift",
       "kind": "BooleanLiteral",
+      "offset": 158,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Base\/BaseViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 193,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Base\/BaseViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 230,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/EditScanCornerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 321,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/EditScanCornerView.swift",
+      "kind": "FloatLiteral",
+      "offset": 538,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/Quadrilateral.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4363,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/Quadrilateral.swift",
+      "kind": "FloatLiteral",
+      "offset": 6056,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 543,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 571,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 600,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 979,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1249,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1261,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1291,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1303,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1424,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1121,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2135,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2147,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1922,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3119,
+      "length": 4,
+      "value": "75.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3133,
+      "length": 4,
+      "value": "75.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3186,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Common\/QuadrilateralView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3200,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1090,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1124,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1314,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1478,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1587,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1759,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditImageViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7936,
+      "length": 2,
+      "value": "75"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 312,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 346,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 536,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 700,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 766,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 896,
+      "length": 25,
+      "value": "\"wescan.edit.button.next\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1110,
+      "length": 6,
+      "value": "\"Next\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1165,
+      "length": 23,
+      "value": "\"A generic next button\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1517,
+      "length": 24,
+      "value": "\"wescan.scanning.cancel\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1730,
+      "length": 8,
+      "value": "\"Cancel\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1787,
+      "length": 25,
+      "value": "\"A generic cancel button\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Edit\/EditScanViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2550,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Extensions\/UIImage+Orientation.swift",
+      "kind": "IntegerLiteral",
       "offset": 245,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Extensions\/UIImage+Orientation.swift",
+      "kind": "IntegerLiteral",
+      "offset": 316,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Extensions\/UIImage+Orientation.swift",
+      "kind": "Array",
+      "offset": 1398,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Protocols\/CaptureDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 985,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Protocols\/CaptureDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1147,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Protocols\/CaptureDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1324,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Protocols\/CaptureDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1376,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Base\/BaseViewModel.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 286,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 280,
+      "offset": 348,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 407,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 526,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 560,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 770,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 919,
+      "length": 23,
+      "value": "\"wand.and.rays.inverse\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 963,
+      "length": 9,
+      "value": "\"enhance\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1353,
+      "length": 14,
+      "value": "\"rotate.right\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Review\/ReviewViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1376,
+      "length": 8,
+      "value": "\"rotate\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/CameraScannerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1509,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/CaptureSessionManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2549,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/CaptureSessionManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2658,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/CaptureSessionManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2814,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 933,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "StringLiteral",
+      "offset": 1110,
+      "length": 67,
+      "value": "\"Matching score: \""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "StringLiteral",
+      "offset": 1143,
+      "length": 1,
+      "value": "\" - Rectangle: \""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "StringLiteral",
+      "offset": 1176,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2186,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2484,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "FloatLiteral",
+      "offset": 2750,
+      "length": 4,
+      "value": "40.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2914,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3022,
+      "length": 2,
+      "value": "35"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3147,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/RectangleFeaturesFunnel.swift",
+      "kind": "FloatLiteral",
+      "offset": 3503,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 751,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1015,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1263,
+      "length": 24,
+      "value": "\"wescan.scanning.cancel\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1361,
+      "length": 8,
+      "value": "\"Cancel\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1380,
+      "length": 19,
+      "value": "\"The cancel button\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1475,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1708,
+      "length": 22,
+      "value": "\"wescan.scanning.auto\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1804,
+      "length": 6,
+      "value": "\"Auto\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1821,
+      "length": 23,
+      "value": "\"The auto button state\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2121,
+      "length": 11,
+      "value": "\"bolt.fill\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2141,
+      "length": 7,
+      "value": "\"flash\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2579,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ScannerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2654,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ShutterButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 237,
+      "length": 4,
+      "value": "0.80"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Scan\/ShutterButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 284,
+      "length": 4,
+      "value": "0.75"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/Session\/CaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 725,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/ImageScannerController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2249,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/ImageScannerController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2261,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/ImageScannerController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2290,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/ImageScannerController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2352,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/Scanner\/ImageScannerController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8500,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/CameraReader.swift",
+      "kind": "IntegerLiteral",
+      "offset": 450,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/CameraReader\/CameraReader.swift",
+      "kind": "IntegerLiteral",
+      "offset": 614,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Collector\/Collector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 317,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 169,
+      "offset": 90,
       "length": 8,
       "value": "\"fdaa08\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 279,
+      "offset": 200,
       "length": 8,
       "value": "\"e5e5e5\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 342,
+      "offset": 263,
       "length": 8,
       "value": "\"000000\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 398,
+      "offset": 319,
       "length": 8,
       "value": "\"808080\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 456,
+      "offset": 377,
       "length": 8,
       "value": "\"353535\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 516,
+      "offset": 437,
       "length": 8,
       "value": "\"f05c38\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 569,
+      "offset": 490,
       "length": 8,
       "value": "\"10b656\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Color.swift",
       "kind": "StringLiteral",
-      "offset": 672,
+      "offset": 593,
       "length": 10,
       "value": "\"10B65666\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 197,
+      "offset": 115,
       "length": 17,
       "value": "\"com.example.app\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 402,
+      "offset": 320,
       "length": 13,
       "value": "\"coordinator\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 463,
+      "offset": 381,
       "length": 9,
       "value": "\"network\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 515,
+      "offset": 433,
       "length": 4,
       "value": "\"ui\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 564,
+      "offset": 482,
       "length": 6,
       "value": "\"view\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 617,
+      "offset": 535,
       "length": 8,
       "value": "\"reader\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Extension\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 670,
+      "offset": 588,
       "length": 6,
       "value": "\"RFID\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Helpers\/UITestingHelpers.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3458,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Helpers\/UITestingHelpers.swift",
       "kind": "BooleanLiteral",
-      "offset": 13815,
+      "offset": 4267,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 686,
+      "offset": 528,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 857,
+      "offset": 914,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1086,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "StringLiteral",
-      "offset": 969,
+      "offset": 1198,
       "length": 45,
       "value": "\"https:\/\/www.intellicheck.com\/privacy-policy\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "StringLiteral",
-      "offset": 1128,
+      "offset": 1357,
       "length": 59,
       "value": "\"https:\/\/www.intellicheck.com\/biometric-information-policy\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1305,
+      "offset": 1534,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1360,
+      "offset": 1626,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1683,
+      "offset": 1949,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1958,
+      "offset": 2223,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ConfigurationModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2440,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "FloatLiteral",
-      "offset": 506,
+      "offset": 422,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "FloatLiteral",
-      "offset": 616,
+      "offset": 532,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 3080,
+      "offset": 2996,
       "length": 15,
       "value": "\"Inter-Regular\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3103,
+      "offset": 3019,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 3160,
+      "offset": 3076,
       "length": 15,
       "value": "\"Inter-Regular\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3183,
+      "offset": 3099,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 3240,
+      "offset": 3156,
       "length": 15,
       "value": "\"Inter-Regular\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3263,
+      "offset": 3179,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 3320,
+      "offset": 3236,
       "length": 15,
       "value": "\"Inter-Regular\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3343,
+      "offset": 3259,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "StringLiteral",
-      "offset": 3401,
+      "offset": 3317,
       "length": 16,
       "value": "\"Inter-SemiBold\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/ICTheme.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Models\/Theme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3425,
+      "offset": 3341,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Navigation\/NavigationRouter.swift",
       "kind": "BooleanLiteral",
-      "offset": 366,
+      "offset": 262,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Navigation\/NavigationRouter.swift",
       "kind": "BooleanLiteral",
-      "offset": 424,
+      "offset": 320,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Navigation\/NavigationRouter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Models\/APIResponse.swift",
       "kind": "StringLiteral",
-      "offset": 871,
+      "offset": 786,
       "length": 12,
       "value": "\"extendidId\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Models\/APIResponse.swift",
       "kind": "StringLiteral",
-      "offset": 907,
+      "offset": 822,
       "length": 5,
       "value": "\"OCR\""
     },
@@ -6811,268 +8420,289 @@
       "value": "\"POST\""
     },
     {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/Routers\/APISimple.swift",
+      "kind": "StringLiteral",
+      "offset": 139,
+      "length": 7,
+      "value": "\"na_dl\""
+    },
+    {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/NetworkMonitor.swift",
       "kind": "BooleanLiteral",
-      "offset": 246,
+      "offset": 158,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Network\/NetworkMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 419,
+      "offset": 331,
       "length": 22,
       "value": "\"com.intellicheck.sdk\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Reader\/ICCameraReader.swift",
-      "kind": "IntegerLiteral",
-      "offset": 998,
-      "length": 2,
-      "value": "30"
-    },
-    {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 524,
+      "offset": 465,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 2708,
+      "offset": 2571,
       "length": 6,
       "value": "\"1111\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 7859,
+      "offset": 7392,
       "length": 29,
       "value": "\"Driver’s License\/State ID\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 7912,
+      "offset": 7445,
       "length": 18,
       "value": "\"Passport Booklet\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentView.swift",
       "kind": "StringLiteral",
-      "offset": 7951,
+      "offset": 7484,
       "length": 15,
       "value": "\"Passport Card\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 234,
+      "offset": 125,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 284,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 325,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/1 Flow Start\/ChooseDocumentViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 381,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/2 Flow Driver LIcense\/DriverView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1351,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/3 Flow Bar Code\/BarcodeView.swift",
-      "kind": "StringLiteral",
-      "offset": 1227,
-      "length": 6,
-      "value": "\"1111\""
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/4 Flow Passport Booklet\/PassportBookletView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1402,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/5 Flow Passport Card\/PassportCardFrontView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1444,
+      "offset": 161,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Additional Screens\/BiometricPolicyView\/BiometricPolicyView.swift",
       "kind": "StringLiteral",
-      "offset": 762,
+      "offset": 687,
       "length": 6,
       "value": "\"1111\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/ProgressBar\/ProgressBarView.swift",
       "kind": "FloatLiteral",
-      "offset": 2207,
+      "offset": 2129,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/AlertPopup.swift",
       "kind": "FloatLiteral",
-      "offset": 289,
+      "offset": 207,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/AlertPopup.swift",
       "kind": "BooleanLiteral",
-      "offset": 390,
+      "offset": 308,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/AlertPopup.swift",
       "kind": "StringLiteral",
-      "offset": 2536,
+      "offset": 2458,
       "length": 9,
       "value": "\"Preview\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Alerts\/AlertPopup.swift",
       "kind": "StringLiteral",
-      "offset": 2571,
+      "offset": 2493,
       "length": 17,
       "value": "\"Preview message\""
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICButton.swift",
-      "kind": "StringLiteral",
-      "offset": 404,
-      "length": 16,
-      "value": "\"Example button\""
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "StringLiteral",
-      "offset": 341,
-      "length": 33,
-      "value": "\"cameraFrame::height::constraint\""
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "StringLiteral",
-      "offset": 408,
-      "length": 32,
-      "value": "\"cameraFrame::width::constraint\""
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 532,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 538,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 548,
-      "length": 3,
-      "value": "300"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 561,
-      "length": 3,
-      "value": "300"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 643,
-      "length": 3,
-      "value": "499"
-    },
-    {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/ICFrameView.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/CustomToolBarContent.swift",
       "kind": "BooleanLiteral",
-      "offset": 1080,
+      "offset": 418,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/ReatkeView\/RetakeView.swift",
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/CustomToolBarContent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 449,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
       "kind": "StringLiteral",
-      "offset": 1616,
-      "length": 6,
-      "value": "\"1111\""
+      "offset": 494,
+      "length": 33,
+      "value": "\"cameraFrame::height::constraint\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "StringLiteral",
+      "offset": 561,
+      "length": 32,
+      "value": "\"cameraFrame::width::constraint\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 685,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 691,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 701,
+      "length": 3,
+      "value": "300"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 714,
+      "length": 3,
+      "value": "300"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 796,
+      "length": 3,
+      "value": "499"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/FrameView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1231,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 730,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 773,
+      "length": 7,
+      "value": "\"Tap 1\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 804,
+      "length": 18,
+      "value": "\"Example button 1\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 871,
+      "length": 7,
+      "value": "\"Tap 2\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 902,
+      "length": 18,
+      "value": "\"Example button 2\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 969,
+      "length": 7,
+      "value": "\"Tap 3\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1000,
+      "length": 18,
+      "value": "\"Example button 3\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1067,
+      "length": 7,
+      "value": "\"Tap 4\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/Custom View\/HapticButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1098,
+      "length": 18,
+      "value": "\"Example button 4\""
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/RFID\/RFIDView.swift",
       "kind": "IntegerLiteral",
-      "offset": 384,
+      "offset": 300,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/RFID\/RFIDViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 294,
+      "offset": 214,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/RFID\/RFIDViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 353,
+      "offset": 273,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Screens\/RFID\/RFIDViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 390,
+      "offset": 310,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Configurator.swift",
       "kind": "BooleanLiteral",
-      "offset": 2972,
+      "offset": 2744,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/miraving\/dev\/inmost\/inmost\/Intellicheck\/Intellicheck\/Sources\/Configurator.swift",
       "kind": "BooleanLiteral",
-      "offset": 9432,
+      "offset": 8557,
       "length": 5,
       "value": "false"
     },
@@ -7243,6 +8873,20 @@
       "offset": 4734,
       "length": 14,
       "value": "\"success_rfid\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4923,
+      "length": 25,
+      "value": "\"tst_driver_license_back\""
+    },
+    {
+      "filePath": "\/Users\/miraving\/Library\/Developer\/Xcode\/DerivedData\/Intellicheck-ctsrfyffhrfwdmgafhzojmbdmhno\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Intellicheck\/IntermediateBuildFilesPath\/Intellicheck.build\/Release-iphoneos\/Intellicheck.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5125,
+      "length": 26,
+      "value": "\"tst_driver_license_front\""
     }
   ]
 }
